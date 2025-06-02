@@ -1,12 +1,18 @@
-## Hi there 👋
+哈咯哈咯，这是一个份简要公开的组织介绍和原则手册
 
-<!--
+## 发心
+我是一名算法工程师 + 业余投资者。受累于当今社会中“金钱至上”的社会规训、到处可见的“政治正确”以及生活中“技术无用论”的厌倦。希望这个组织可以为同样受累与这些而向往于一种以爱好为导向相对纯粹的同伴提供一个避风港。
 
-**Here are some ideas to get you started:**
+## 这里有什么
+1. 有着同样理念通过异步松散的方式组织起来的善良小伙伴，人数最终会控制在20人以内
+2. 各种各样的成员留下的自己思考和创作的痕迹（包含但不限于工程产品、算法产品、投资策略、某一领域的高质量笔记）
+3. 没有三，只有 1 和 2
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 这里没有什么
+1. 没有任何政治话题，这些话题包含但不限于男女权、国内外政治、LGBT、DEI 等
+2. 没有任何极端主义者，至少在有组织成员在场的任何场景中保持温和。这里不欢迎包含但不限于反社会、社达主义者、宗教狂热等
+
+## 加入的成员应当具备什么
+1. 任何情况下保持理性和友善
+2. 对自己的领域保有热诚、对世界有持续的好奇行
+3. 定期且持续的创作（成为一个 Repo 的所有者，并持续的创作）
